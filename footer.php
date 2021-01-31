@@ -83,6 +83,7 @@
                     
                     <div class="reply__close">&times</div>
                 
+                
             </div>
         </div>
         <footer>
